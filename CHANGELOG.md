@@ -1,5 +1,11 @@
 # vuex-oidc changelog
 
+## 4.0.3
+*2023-05-25*
+
+### Chore
+* Update acorn from 7.0.0 to 7.1.1
+
 ## 4.0.2
 *2023-04-01*
 
